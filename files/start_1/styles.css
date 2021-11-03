@@ -1,0 +1,152 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-18px;
+  width:1181px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:323px;
+  height:430px;
+}
+#u0 {
+  border-width:0px;
+  position:absolute;
+  left:671px;
+  top:91px;
+  width:323px;
+  height:430px;
+  display:flex;
+}
+#u0 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u0_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:187px;
+  height:317px;
+}
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:422px;
+  top:203px;
+  width:187px;
+  height:317px;
+  display:flex;
+}
+#u1 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:276px;
+  height:369px;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:18px;
+  top:151px;
+  width:276px;
+  height:369px;
+  display:flex;
+}
+#u2 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u3_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:975px;
+  height:87px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"Lemon", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:40px;
+}
+#u3 {
+  border-width:0px;
+  position:absolute;
+  left:224px;
+  top:64px;
+  width:975px;
+  height:87px;
+  display:flex;
+  font-family:"Lemon", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:40px;
+}
+#u3 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u3_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
